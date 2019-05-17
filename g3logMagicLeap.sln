@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "g3logMagicLeap", "g3logMagicLeap.vcxproj", "{F34331B1-1646-44CF-8467-9EA24DCA56AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ML = Debug|ML
+		Debug|x64 = Debug|x64
+		Release|ML = Release|ML
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Debug|ML.ActiveCfg = Debug|ML
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Debug|ML.Build.0 = Debug|ML
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Debug|x64.ActiveCfg = Debug|x64
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Debug|x64.Build.0 = Debug|x64
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Release|ML.ActiveCfg = Release|ML
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Release|ML.Build.0 = Release|ML
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Release|x64.ActiveCfg = Release|x64
+		{F34331B1-1646-44CF-8467-9EA24DCA56AF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43725114-D321-4DA3-9BEB-31D28F1B5CE9}
+	EndGlobalSection
+EndGlobal
